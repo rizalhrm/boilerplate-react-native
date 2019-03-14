@@ -11,6 +11,10 @@
 
 ## Installation
 
+Clone this repository
+```
+$ git clone https://github.com/rizalhrm/boilerplate-react-native.git new-project
+
 See
 [Getting Started](https://facebook.github.io/react-native/docs/getting-started.html)
 to install requirement tools.
